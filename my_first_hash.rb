@@ -30,5 +30,5 @@ def adding
                  }
 shipping_manifest["mustkets" => 2, "gun powder" => 4]
 
-return shipping_manifest
+shipping_manifest
 end
